@@ -1,0 +1,5 @@
+[
+  "scripts/test_login.py::TestLogin::()::test_login[15100000001-123456-8888]",
+  "scripts/test_login.py::TestLogin::()::test_login[15100000001-error-8888]",
+  "scripts/test_login.py::TestLogin::()::test_login[15100001111-123456-8888]"
+]
